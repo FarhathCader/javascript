@@ -18,6 +18,7 @@ const function2  = () => {
         }, 2000);
     });
 }
+//s
 
 const function3 = async () => {
     console.log("function 3 started")
